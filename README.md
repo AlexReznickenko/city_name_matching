@@ -78,4 +78,4 @@ pandas, sentence_transformers, numpy, sqlalchemy
 | [requirements.txt](https://github.com/AlexReznickenko/city_name_matching/blob/main/requirements.txt)    | requirements.txt    
 
 ## Ссылка на обученную модель
-https://huggingface.co/AlexRez/distiluse-base-multilingual-cased-v2-4epochs-CITIESFINDER/tree/main/distiluse-base-multilingual-cased-v2-4epochs-CITIESFINDER
+https://huggingface.co/AlexRez/distiluse-base-multilingual-cased-v2-4epochs-CITIESFINDER/tree/main
