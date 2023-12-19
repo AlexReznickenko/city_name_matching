@@ -75,4 +75,7 @@ pandas, sentence_transformers, numpy, sqlalchemy
 | [data](https://github.com/AlexReznickenko/city_name_matching/tree/main/data)          | папка с данными |
 | [more_alternate_names_countries.csv](https://github.com/AlexReznickenko/city_name_matching/blob/main/data/more_alternate_names_countries.csv)          | сформированный вручную датасет с альтернативными названиями стран 
 | [geo_test] отсутствует в репозитории         | папка с данными |
-| [requirements.txt](https://github.com/AlexReznickenko/city_name_matching/blob/main/requirements.txt)    | requirements.txt                     
+| [requirements.txt](https://github.com/AlexReznickenko/city_name_matching/blob/main/requirements.txt)    | requirements.txt    
+
+## Ссылка на обученную модель
+https://huggingface.co/AlexRez/distiluse-base-multilingual-cased-v2-4epochs-CITIESFINDER/tree/main/distiluse-base-multilingual-cased-v2-4epochs-CITIESFINDER
